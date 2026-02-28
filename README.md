@@ -1,3 +1,4 @@
+![IMG_20260228_225618](https://github.com/user-attachments/assets/4c1ca7c4-4188-4768-bfe0-533b39530930)
 # richika-birthday
 Happy Birthday richika page
 <!DOCTYPE html>
